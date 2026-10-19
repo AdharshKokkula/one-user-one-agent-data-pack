@@ -1,0 +1,306 @@
+[
+  {
+    "category": "duplicate_events",
+    "detail": "2176 duplicate event_ids removed",
+    "count": 2176,
+    "examples": []
+  },
+  {
+    "category": "dual_profile_rows",
+    "detail": "User U-04215 has 2 profile rows; keeping latest updated_at=2026-09-29T11:24:48.408Z",
+    "count": 1,
+    "examples": [
+      "U-04215"
+    ]
+  },
+  {
+    "category": "dual_profile_rows",
+    "detail": "User U-01593 has 2 profile rows; keeping latest updated_at=2026-09-29T16:52:52.187Z",
+    "count": 1,
+    "examples": [
+      "U-01593"
+    ]
+  },
+  {
+    "category": "dual_profile_rows",
+    "detail": "User U-01198 has 2 profile rows; keeping latest updated_at=2026-09-29T11:38:44.388Z",
+    "count": 1,
+    "examples": [
+      "U-01198"
+    ]
+  },
+  {
+    "category": "dual_profile_rows",
+    "detail": "User U-01041 has 2 profile rows; keeping latest updated_at=2026-09-28T21:06:56.358Z",
+    "count": 1,
+    "examples": [
+      "U-01041"
+    ]
+  },
+  {
+    "category": "dual_profile_rows",
+    "detail": "User U-03517 has 2 profile rows; keeping latest updated_at=2026-09-29T04:24:24.960Z",
+    "count": 1,
+    "examples": [
+      "U-03517"
+    ]
+  },
+  {
+    "category": "dual_profile_rows",
+    "detail": "User U-00706 has 2 profile rows; keeping latest updated_at=2026-09-29T17:06:10.701Z",
+    "count": 1,
+    "examples": [
+      "U-00706"
+    ]
+  },
+  {
+    "category": "dual_profile_rows",
+    "detail": "User U-02378 has 2 profile rows; keeping latest updated_at=2026-09-29T09:57:02.418Z",
+    "count": 1,
+    "examples": [
+      "U-02378"
+    ]
+  },
+  {
+    "category": "dual_profile_rows",
+    "detail": "User U-00248 has 2 profile rows; keeping latest updated_at=2026-09-28T20:33:07.062Z",
+    "count": 1,
+    "examples": [
+      "U-00248"
+    ]
+  },
+  {
+    "category": "dual_profile_rows",
+    "detail": "User U-03905 has 2 profile rows; keeping latest updated_at=2026-09-29T16:00:25.675Z",
+    "count": 1,
+    "examples": [
+      "U-03905"
+    ]
+  },
+  {
+    "category": "dual_profile_rows",
+    "detail": "User U-02530 has 2 profile rows; keeping latest updated_at=2026-09-29T06:45:17.941Z",
+    "count": 1,
+    "examples": [
+      "U-02530"
+    ]
+  },
+  {
+    "category": "dual_profile_rows",
+    "detail": "User U-03246 has 2 profile rows; keeping latest updated_at=2026-09-28T18:50:20.166Z",
+    "count": 1,
+    "examples": [
+      "U-03246"
+    ]
+  },
+  {
+    "category": "dual_profile_rows",
+    "detail": "User U-03947 has 2 profile rows; keeping latest updated_at=2026-09-29T08:56:47.261Z",
+    "count": 1,
+    "examples": [
+      "U-03947"
+    ]
+  },
+  {
+    "category": "dual_profile_rows",
+    "detail": "User U-01379 has 2 profile rows; keeping latest updated_at=2026-09-29T10:33:44.963Z",
+    "count": 1,
+    "examples": [
+      "U-01379"
+    ]
+  },
+  {
+    "category": "dual_profile_rows",
+    "detail": "User U-00453 has 2 profile rows; keeping latest updated_at=2026-09-28T22:42:19.356Z",
+    "count": 1,
+    "examples": [
+      "U-00453"
+    ]
+  },
+  {
+    "category": "dual_profile_rows",
+    "detail": "User U-02592 has 2 profile rows; keeping latest updated_at=2026-09-29T05:47:28.541Z",
+    "count": 1,
+    "examples": [
+      "U-02592"
+    ]
+  },
+  {
+    "category": "dual_profile_rows",
+    "detail": "User U-04698 has 2 profile rows; keeping latest updated_at=2026-09-29T11:50:10.616Z",
+    "count": 1,
+    "examples": [
+      "U-04698"
+    ]
+  },
+  {
+    "category": "dual_profile_rows",
+    "detail": "User U-01031 has 2 profile rows; keeping latest updated_at=2026-09-29T07:54:35.109Z",
+    "count": 1,
+    "examples": [
+      "U-01031"
+    ]
+  },
+  {
+    "category": "dual_profile_rows",
+    "detail": "User U-01468 has 2 profile rows; keeping latest updated_at=2026-09-29T04:42:10.623Z",
+    "count": 1,
+    "examples": [
+      "U-01468"
+    ]
+  },
+  {
+    "category": "dual_profile_rows",
+    "detail": "User U-00099 has 2 profile rows; keeping latest updated_at=2026-09-29T16:31:29.612Z",
+    "count": 1,
+    "examples": [
+      "U-00099"
+    ]
+  },
+  {
+    "category": "dual_profile_rows",
+    "detail": "User U-03255 has 2 profile rows; keeping latest updated_at=2026-09-28T19:47:22.109Z",
+    "count": 1,
+    "examples": [
+      "U-03255"
+    ]
+  },
+  {
+    "category": "dual_profile_rows",
+    "detail": "User U-03655 has 2 profile rows; keeping latest updated_at=2026-09-29T17:47:43.199Z",
+    "count": 1,
+    "examples": [
+      "U-03655"
+    ]
+  },
+  {
+    "category": "dual_profile_rows",
+    "detail": "User U-01603 has 2 profile rows; keeping latest updated_at=2026-09-28T22:51:20.638Z",
+    "count": 1,
+    "examples": [
+      "U-01603"
+    ]
+  },
+  {
+    "category": "dual_profile_rows",
+    "detail": "User U-03379 has 2 profile rows; keeping latest updated_at=2026-09-28T20:42:48.338Z",
+    "count": 1,
+    "examples": [
+      "U-03379"
+    ]
+  },
+  {
+    "category": "dual_profile_rows",
+    "detail": "User U-01044 has 2 profile rows; keeping latest updated_at=2026-09-29T06:58:57.663Z",
+    "count": 1,
+    "examples": [
+      "U-01044"
+    ]
+  },
+  {
+    "category": "dual_profile_rows",
+    "detail": "User U-02541 has 2 profile rows; keeping latest updated_at=2026-09-29T01:44:22.142Z",
+    "count": 1,
+    "examples": [
+      "U-02541"
+    ]
+  },
+  {
+    "category": "dual_profile_rows",
+    "detail": "User U-03856 has 2 profile rows; keeping latest updated_at=2026-09-29T07:39:42.822Z",
+    "count": 1,
+    "examples": [
+      "U-03856"
+    ]
+  },
+  {
+    "category": "dual_profile_rows",
+    "detail": "User U-00884 has 2 profile rows; keeping latest updated_at=2026-09-29T07:30:12.830Z",
+    "count": 1,
+    "examples": [
+      "U-00884"
+    ]
+  },
+  {
+    "category": "dual_profile_rows",
+    "detail": "User U-01531 has 2 profile rows; keeping latest updated_at=2026-09-29T04:06:16.600Z",
+    "count": 1,
+    "examples": [
+      "U-01531"
+    ]
+  },
+  {
+    "category": "dual_profile_rows",
+    "detail": "User U-02510 has 2 profile rows; keeping latest updated_at=2026-09-29T17:04:46.733Z",
+    "count": 1,
+    "examples": [
+      "U-02510"
+    ]
+  },
+  {
+    "category": "dual_profile_rows",
+    "detail": "User U-03178 has 2 profile rows; keeping latest updated_at=2026-09-29T04:22:50.235Z",
+    "count": 1,
+    "examples": [
+      "U-03178"
+    ]
+  },
+  {
+    "category": "dual_profile_rows_summary",
+    "detail": "30 users with multiple profile rows",
+    "count": 30,
+    "examples": []
+  },
+  {
+    "category": "invalid_profile_dialect",
+    "detail": "446 profiles with dialect not in d1-d6",
+    "count": 446,
+    "examples": []
+  },
+  {
+    "category": "injected_description",
+    "detail": "Title T0002 (hama-chudibha-d1) contains injected instructions in description",
+    "count": 1,
+    "examples": [
+      "T0002"
+    ]
+  },
+  {
+    "category": "injected_description",
+    "detail": "Title T0522 (guka-kosusa-d2) contains injected instructions in description",
+    "count": 1,
+    "examples": [
+      "T0522"
+    ]
+  },
+  {
+    "category": "duplicate_content_slugs",
+    "detail": "514 duplicate content_slug variants in catalogue",
+    "count": 514,
+    "examples": []
+  },
+  {
+    "category": "stale_triggers",
+    "detail": "480 triggers with received_at - occurred_at > 300s",
+    "count": 480,
+    "examples": []
+  },
+  {
+    "category": "missing_new_viewer_profiles",
+    "detail": "103 triggered users have no profile row (likely new sign-ups)",
+    "count": 103,
+    "examples": [
+      "U-00150",
+      "U-00167",
+      "U-00170",
+      "U-00186",
+      "U-00212"
+    ]
+  },
+  {
+    "category": "dialect_conflict_profile_vs_app",
+    "detail": "555 users have app_dialect in trigger != preferred_dialect in profile",
+    "count": 555,
+    "examples": []
+  }
+]
